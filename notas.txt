@@ -1,2 +1,3 @@
 Notas iniciales del proyecto 
 Cambio realizado desde la primera copia.
+Cambio publicado desde la primera copia para provocar rechazo.
