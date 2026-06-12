@@ -1,2 +1,3 @@
 Notas iniciales del proyecto 
 Cambio realizado desde la primera copia.
+Cambio distinto realizado desde la segunda copia.
